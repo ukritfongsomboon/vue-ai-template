@@ -23,7 +23,8 @@ export default {
       drawer: false,
       menu: [
         { name: 'page1', path: 'page1', icon: 'mdi-account-hard-hat', text: 'Page 1' },
-        { name: 'page2', path: 'page2', icon: 'mdi-account-hard-hat', text: 'Page 2' }
+        { name: 'page2', path: 'page2', icon: 'mdi-account-hard-hat', text: 'Page 2' },
+        { name: 'page3', path: 'page3', text: 'Page 3', icon: 'mdi-clock-time-four-outline' },
       ],
     }
   },
